@@ -115,6 +115,7 @@ module.exports =  [
 		"project_date" : "May 30 (Sun)",
 		"project_time" : "4:00 PM",
 		"project_duration" : 49,
-		"project_interest" : 3
+		"project_interest" : 3,
+		"project_description" : "Learn Python, C++, and more!"
 	},
 ]
