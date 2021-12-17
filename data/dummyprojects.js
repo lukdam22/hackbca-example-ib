@@ -8,7 +8,8 @@ module.exports =  [
 		"project_date" : "August 3 (Tuesday)",
 		"project_time" : "11:30 AM",
 		"project_duration" : 30,
-		"project_interest" : 11
+		"project_interest" : 11,
+		"project_description" : "Sell Food!"
 	},
 	{
 		"project_id" : 2,
@@ -19,7 +20,8 @@ module.exports =  [
 		"project_date" : "September 03 (Sun)",
 		"project_time" : "11:30 AM",
 		"project_duration" : null,
-		"project_interest" : 1
+		"project_interest" : 1,
+		"project_description" : "Vote and make policy!"
 	},
 	{
 		"project_id" : 3,
@@ -30,7 +32,8 @@ module.exports =  [
 		"project_date" : "May 04 (Mon)",
 		"project_time" : "9:30 AM",
 		"project_duration" : 31,
-		"project_interest" : 2
+		"project_interest" : 2,
+		"project_description" : "Talk about things, but special!"
 	},
 	{
 		"project_id" : 4,
@@ -41,7 +44,8 @@ module.exports =  [
 		"project_date" : "May 12 (Tuesday)",
 		"project_time" : "11:45 AM",
 		"project_duration" : 33,
-		"project_interest" : 13
+		"project_interest" : 13,
+		"project_description" : "Play Americas favorite pass-time"
 	},
 	{
 		"project_id" : 5,
@@ -63,7 +67,8 @@ module.exports =  [
 		"project_date" : "May 17 (Sun)",
 		"project_time" : "5:30 PM",
 		"project_duration" : 43,
-		"project_interest" : 03
+		"project_interest" : 03,
+		"project_description" : "Running is absolutely forbidden"
 	},
 	{
 		"project_id" : 7,
@@ -74,7 +79,8 @@ module.exports =  [
 		"project_date" : "May 019 (Sun)",
 		"project_time" : "12:30 PM",
 		"project_duration" : 72,
-		"project_interest" : 4
+		"project_interest" : 4,
+		"project_description" : "Anything except running is forbidden"
 	},
 	{
 		"project_id" : 8,
@@ -85,7 +91,8 @@ module.exports =  [
 		"project_date" : "May 22 (Sun)",
 		"project_time" : "2:30 PM",
 		"project_duration" : 61,
-		"project_interest" : 6
+		"project_interest" : 6,
+		"project_description" : "get 3stocked by a kirby and break your gamecube"
 	},
 	{
 		"project_id" : 9,
@@ -96,7 +103,8 @@ module.exports =  [
 		"project_date" : "May 10 (Sun)",
 		"project_time" : "4:00 PM",
 		"project_duration" : 42,
-		"project_interest" : 1
+		"project_interest" : 1,
+		"project_description" : "Coding time"
 	},
 	{
 		"project_id" : 10,
